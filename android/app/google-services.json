@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "419762667916",
+    "project_id": "shirikiapp",
+    "storage_bucket": "shirikiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419762667916:android:5425ff1290ea6e612fd6a9",
+        "android_client_info": {
+          "package_name": "com.example.shiriki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419762667916-ubqsqe2cgf589j62qen3juelsoutor30.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhHQUOqe4dH0kK8u2qCVKQ5jSGvBxFp5I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419762667916-4arr4bhdn84i934or8iq7vqpv73hrl0n.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "419762667916-6pahps9ilanpmkbup7eo1uptjlcpniil.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shiriki.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

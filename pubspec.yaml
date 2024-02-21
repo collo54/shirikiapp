@@ -1,0 +1,53 @@
+name: shiriki
+description: A new Flutter project.
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.4.0
+  cupertino_icons: ^1.0.2
+  flutter_svg: ^2.0.7
+  flutter_polyline_points: ^1.0.0
+  pointer_interceptor: ^0.9.3+4
+  firebase_core: ^2.15.0
+  cloud_firestore: ^4.8.4
+  firebase_auth: ^4.7.2
+  google_sign_in: ^6.1.4
+  google_fonts: ^4.0.4
+  firebase_storage: ^11.2.5
+  file_picker: ^5.3.3
+  flutter_riverpod: ^2.3.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+   - assets/style/map_style.txt 
+   - assets/style/map_style_dark.txt 
+   - assets/svg/ic_pharmacy_marker.svg
+   - assets/svg/ic_far_pharmacy_marker.svg
+   - assets/images/clock.png 
+   - assets/images/email.png
+   - assets/images/google-maps.png
+   - assets/images/launchicon.png
+   - assets/images/left1.png
+   - assets/images/left2.png
+   - assets/images/listicon.png
+   - assets/images/new.png
+   - assets/images/OpenStreetMap.png
+   - assets/images/padlock.png
+   - assets/images/pencil.png
+   - assets/images/pin.png
+   - assets/images/star2.png
+   - assets/images/user1.png 
+   - assets/images/proposedpipeline.png
+   - assets/images/mainpipeline.png        
